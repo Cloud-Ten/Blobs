@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=BlobWorld
+comment0.text=\r\n\ \r\n\ Name\:\ Ron\ Nguyen\r\n\ Course\:\ CS20S\r\n\ Teacher\:\ Mr.\ Hardman\r\n\ Lab\ \#7,\ Program\ \#3\r\n\ Date\ Last\ Modified\:\ 1/24/2018\r\n\ \r\n
+comment1.params=multiplayer\ diff
+comment1.target=BlobWorld(boolean,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ BlobWorld.\r\n\ \r\n\ @param\ a\ boolean\ which\ is\ set\ to\ determine\ if\ the\ user\ wants\ to\ play\ in\ the\ multiplayer\ gamemode\r\n\ @param\ an\ int\ corresponding\ to\ the\ difficulty\ the\ user\ wants\ to\ play\ at\r\n\ @return\ nothing\ is\ returned\r\n
+comment2.params=howMany
+comment2.target=void\ placeFood(int)
+comment2.text=\r\n\ placeFood\ places\ a\ specified\ amount\ of\ food\ at\ random\ places\ in\ the\ world\r\n\ \r\n\ @param\ an\ int\ variable\ corresponding\ to\ how\ many\ food\ objects\ should\ be\ placed\r\n\ @return\ nothing\ is\ returned\r\n
+comment3.params=
+comment3.target=void\ placeElements()
+comment3.text=\r\n\ placeElements\ places\ the\ scoreboards\ for\ both\ player\ one\ and\ player\ two\r\n\ \r\n\ @param\ no\ parameters\r\n\ @return\ nothing\ is\ returned\r\n
+comment4.params=amount
+comment4.target=void\ spawnEnemies(int)
+comment4.text=\r\n\ spawnEnemies\ places\ a\ specified\ amount\ of\ enemy\ blobs\ in\ the\ world\r\n\ \r\n\ @param\ an\ int\ variable\ corresponding\ to\ the\ amount\ amount\ of\ enemy\ blobs\ that\ should\ be\ placed\r\n\ @return\ nothing\ is\ returned\r\n
+numComments=5

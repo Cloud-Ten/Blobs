@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=EnemyBlob
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ EnemyBlob\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=size
+comment1.target=EnemyBlob(int)
+comment1.text=\r\n\ constructor\ for\ class\ enemyblob\r\n\ \r\n\ @param\ an\ int\ variable\ corresponding\ to\ what\ size\ the\ enemyblob\ should\ be\r\n\ @return\ nothing\ is\ returned\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ EnemyBlob\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=boolean\ foundFood()
+comment3.text=\r\n\ foundFood\ checks\ whether\ a\ food\ object\ is\ present\ at\ the\ blob's\ current\ location\r\n
+comment4.params=
+comment4.target=boolean\ foundPlayer()
+comment4.text=\r\n\ foundPlayer\ checks\ whether\ a\ player\ has\ been\ found\ at\ the\ blob's\ current\ location\r\n
+comment5.params=
+comment5.target=void\ movement()
+comment5.text=\r\n\ movement\ moves\ the\ blob\ in\ a\ random\ direction\r\n\ \r\n\ @param\ no\ parameters\r\n\ @return\ nothing\ is\ returned\r\n
+comment6.params=
+comment6.target=void\ respawnFood()
+comment6.text=\r\n\ respawnFood\ adds\ a\ new\ food\ object\ at\ a\ random\ point\ in\ the\ world\ whenever\ a\ food\ object\ is\ eaten\r\n\ \r\n\ @param\ no\ parameters\r\n\ @return\ nothing\ is\ returned\r\n
+comment7.params=
+comment7.target=void\ gameOver()
+comment7.text=\r\n\ gameOver\ is\ called\ when\ this\ blob\ has\ eaten\ the\ user's\ blob\ and\ allows\ the\ user\ to\ return\ to\ the\ menu\r\n\ \r\n\ @param\ no\ parameters\r\n\ @return\ nothing\ is\ returned\r\n
+numComments=8

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=TextBox
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ TextBox\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=message\ fs\ hasBorder\ fg\ bg
+comment1.target=TextBox(java.lang.String,\ int,\ boolean,\ greenfoot.Color,\ greenfoot.Color)
+comment1.text=\r\n\ constructor\ for\ class\ textbox\r\n\ \r\n\ @param\ a\ string\ variable\ corresponding\ to\ what\ the\ user\ wants\ displayed\r\n\ @param\ an\ int\ variable\ corresponding\ to\ the\ font\ size\r\n\ @param\ a\ boolean\ variable\ corresponding\ to\ whether\ the\ textbox\ should\ have\ a\ border\ or\ not\r\n\ @param\ a\ color\ variable\ that\ corresponds\ to\ what\ color\ the\ foreground\ should\ be\r\n\ @param\ a\ color\ variable\ that\ corresponds\ to\ what\ color\ the\ background\ should\ be\r\n\ @return\ nothing\ is\ returned\r\n
+comment2.params=
+comment2.target=void\ display()
+comment2.text=\r\n\ display\ displays\ the\ textbox\ that\ the\ user\ wants\ displayed\r\n\ \r\n\ @param\ no\ parameters\r\n\ @return\ nothing\ is\ returned\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Act\ -\ do\ whatever\ the\ TextBox\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=4
